@@ -1,4 +1,4 @@
-### . **Initializing Prolog**
+### 1. **Initializing Prolog**
 
 ```python
 

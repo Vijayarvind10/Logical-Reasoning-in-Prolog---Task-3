@@ -1,0 +1,1 @@
+# Logical-Reasoning-in-Prolog---Task-3
